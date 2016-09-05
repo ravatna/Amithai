@@ -1,0 +1,13 @@
+<?page title="ตารางกิจกรรม"?>
+<zk>
+<include  src="menubar.zul" />
+<vbox hflex="1" width="1000px">
+	
+	<groupbox> 
+	<caption label="รายชื่อโรงแรม"/>
+	
+	
+	</groupbox>
+	
+</vbox>
+</zk>
